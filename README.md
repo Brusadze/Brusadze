@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Yea, thats right([http://url/to/img.png](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg))
+
 <!--
 **Brusadze/Brusadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
