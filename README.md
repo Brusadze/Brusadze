@@ -10,7 +10,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brusadze&show_icons=true&locale=en&layout=compact" alt="brusadze" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brusadze&show_icons=true&locale=en" alt="brusadze" /></p>
 
 
 
