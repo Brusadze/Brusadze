@@ -22,5 +22,5 @@
 
 ## TheCorner - Curso de creacion y publicacion web
  
-  - [Driving School](https://shuknishani.ge/badripages)
+  - [Trabajos](https://shuknishani.ge/badripages)
 
