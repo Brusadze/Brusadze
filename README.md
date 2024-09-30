@@ -11,7 +11,7 @@
 
  - [Driving School](https://shuknishani.ge)
  - [Android](https://play.google.com/store/apps/details?id=com.shuknishani.drivinglicence&hl=es)
- - [iOS](https://play.google.com/store/apps/details?id=com.shuknishani.drivinglicence&hl=es)
+ - [iOS](https://apps.apple.com/ge/app/shuknishani/id6448963404)
 
 ## TheCorner - Curso de creacion y publicacion web
  
