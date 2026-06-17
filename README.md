@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-**Badri Rusadze** — building web & mobile products for driving schools, theory exams, car rentals and como dios manda .
+**Badri Rusadze** — building web & mobile products for driving schools, theory exams, car rentals como dios manda .
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Brusadze-181717?style=for-the-badge&logo=github)](https://github.com/Brusadze)
 
